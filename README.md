@@ -2,7 +2,7 @@
 
 
 
-q6: kaggle:https://www.kaggle.com/roshansharma/mall-customers-clustering-analysis
+
 
 
 q9 : random forest :
