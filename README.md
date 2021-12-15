@@ -9,6 +9,7 @@ q3: https://towardsdatascience.com/logistic-regression-using-python-sklearn-nump
 q9 : random forest :
 https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
 
+q7  :https://towardsdatascience.com/customer-segmentation-with-machine-learning-a0ac8c3d4d84
 
 random forest: 
 https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
